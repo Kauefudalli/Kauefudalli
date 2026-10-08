@@ -1,16 +1,29 @@
-## Hi there 👋
+# Olá, eu sou o Kauê 
 
-<!--
-**Kauefudalli/Kauefudalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Análise e Desenvolvimento de Sistemas (PUC-PR)**, em transição de carreira para **Dados e Business Intelligence**.
 
-Here are some ideas to get you started:
+Minha experiência profissional anterior envolve ambientes operacionais e indústria automotiva, com atuação em processos, relatórios, sistemas ERP e controle de informações. Atualmente, estou direcionando essa experiência para projetos de análise de dados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Foco atual
+
+- Power BI
+- SQL
+- Excel
+- Análise de Dados
+- Business Intelligence
+
+## Projetos
+
+Estou desenvolvendo e organizando meu portfólio com projetos de análise de dados, incluindo:
+
+- **KLF Analytics** — análise de dados operacionais, consumo de combustível e custos utilizando dados reais.
+- **IAN-Store** — análise de vendas e indicadores comerciais em Power BI.
+- **Titanic** — análise exploratória e visualização de dados sobre sobrevivência de passageiros.
+
+## Objetivo
+
+Busco minha primeira oportunidade profissional em **Dados/BI**, onde possa aplicar meus conhecimentos, desenvolver experiência prática e continuar evoluindo tecnicamente.
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/kauefudalli/)
